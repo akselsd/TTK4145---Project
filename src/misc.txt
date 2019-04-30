@@ -1,0 +1,4 @@
+isNewRequest -> isnewHallRequest
+Remove old/uneccesary comments
+tempReq -> newLocalRequests
+move broadcaster and bcast together? If so, move all network to one file? Not a lot of code
